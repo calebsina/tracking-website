@@ -403,10 +403,10 @@
                     error_reporting(E_ALL);
                     ini_set('display_errors', 1);
                     
-                        $servername = "srv1241.hstgr.io";
-                        $username = "u304344616_tash";
-                        $password = "logistica@TASH23";
-                        $dbName = "u304344616_logistica";
+                        $servername = "localhost";
+                    $username = "shelta";
+                    $password = "SHELTAR@tash25";
+                        $dbName = "tash";
 
                 try {
                   $conn = new PDO("mysql:host=$servername;dbname=$dbName", $username, $password);

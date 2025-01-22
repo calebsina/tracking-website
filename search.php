@@ -99,12 +99,12 @@
                     <?php 
                     // session_start();	
 
-                    $servername = "srv1241.hstgr.io";
-                    $username = "u304344616_tash";
-                    $password = "logistica@TASH23";
+                    $servername = "localhost";
+                    $username = "shelta";
+                    $password = "SHELTAR@tash25";
             
                     try {
-                        $conn = new PDO("mysql:host=$servername;dbname=u304344616_logistica", $username, $password);
+                        $conn = new PDO("mysql:host=$servername;dbname=tash", $username, $password);
                             // set the PDO error mode to exception
                             $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
                             $tracking = $_POST['tracking'];
