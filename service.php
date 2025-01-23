@@ -67,7 +67,7 @@
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>+1(571)4241777 </h4>
+            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>+1(281)9448076 </h4>
         </div>
     </nav>
     <!-- Navbar End -->

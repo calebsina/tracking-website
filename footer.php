@@ -5,8 +5,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>15 Kendall St, Clyde NSW 2142, Australia</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+1(571)4241777</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@AUSPostalInc.org</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+1(281)9448076</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>shipping@AUSPostalInc.org</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>

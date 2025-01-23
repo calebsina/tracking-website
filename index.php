@@ -79,7 +79,7 @@
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>+1(571)4241777</h4>
+            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>+1(281)9448076</h4>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -180,7 +180,7 @@
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
                             <h6>Call for any query!</h6>
-                            <h3 class="text-primary m-0">+1(571)4241777 </h3>
+                            <h3 class="text-primary m-0">+1(281)9448076 </h3>
                         </div>
                     </div>
                 </div>
@@ -301,11 +301,26 @@
                             <p class="mb-0">We cover the whole of Europe, China, United states and some African countires</p>
                         </div>
                     </div>
+                        <div class="d-flex mb-5 wow fadeInUp" data-wow-delay="0.3s">
+                        <i class="fa fa-moon text-primary fa-3x flex-shrink-0"></i>
+                        <div class="ms-4">
+                            <h5>OVERNIGHT SHIPMENT</h5>
+                            <p class="mb-0">we understand the importance of timely and discreet delivery. That's why we offer expedited shipping options, including overnight shipments within 24 hours, delivered right to your doorstep. Giving you peace of mind and saving you time, we respect our clients' privacy and confidentiality.</p>
+                        </div>
+                    </div>
                     <div class="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
                         <i class="fa fa-shipping-fast text-primary fa-3x flex-shrink-0"></i>
                         <div class="ms-4">
                             <h5>On Time Delivery</h5>
                             <p class="mb-0">We pay particular attention to time management and ensure your goods are on the best possible track.</p>
+                        </div>
+                    </div>
+
+                    <div class="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
+                        <i class="fa fa-anchor text-primary fa-3x flex-shrink-0"></i>
+                        <div class="ms-4">
+                            <h5>INSURANCE AND REFUNDS</h5>
+                            <p class="mb-0">we stand behind the quality of our services. Our insurance policy provides full refunds in the event of a missing package. Additionally, any expenses incurred after shipment will be fully reimbursed upon delivery, ensuring your complete satisfaction. With us, you can have peace of mind knowing your investment is protected.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-0 wow fadeInUp" data-wow-delay="0.7s">
@@ -342,7 +357,7 @@
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
                         <div class="ps-4">
                             <h6>Call for any query!</h6>
-                            <h3 class="text-primary m-0">+1(571)4241777</h3>
+                            <h3 class="text-primary m-0">+1(281)9448076</h3>
                         </div>
                     </div>
                 </div>
