@@ -97,7 +97,7 @@
                             <div class="col-10 col-lg-8">
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome to AUSPostalInc solutions</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Logistics</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">AUSPOSTAL LOGISTICS, which has established a strong network with UPS and USPS. Our leading logistics has joined forces with UPS and USPS to deliver packages across the United States. This collaboration enables us to provide our clients with seamless, efficient, and reliable shipping solutions, ensuring timely delivery of their packages.</p>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">AUSPOSTAL LOGISTICS, which has established a strong network with UPS and USPS. Our leading logistics has joined forces with UPS and USPS to deliver packages across the United States. </p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="quote.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Tracking</a><br>
                                 
@@ -122,7 +122,7 @@
                             <div class="col-10 col-lg-8">
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">Global logistics and Freight forwarding</h5>
                                 <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Transport</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Quality control systems, highly professional staff, accurate testing process, 100% gurantee.</p>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">This collaboration enables us to provide our clients with seamless, efficient, and reliable shipping solutions, ensuring timely delivery of their packages.</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="quote.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
